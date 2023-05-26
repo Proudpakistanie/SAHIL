@@ -1,8 +1,8 @@
 
 Sign up
-hackerxphantom
+hackerSSGILLANI
 /
-HACK-CAMERA
+SAHIL
 Public
 Code
 Issues
@@ -12,9 +12,9 @@ Actions
 Projects
 Security
 Insights
-HACK-CAMERA/hack_camera.sh
-@hackerxphantom
-hackerxphantom Update hack_camera.sh
+SAHIL/hack_camera.sh
+@hackerSAHIL
+hackerSS GILLANI Update hack_camera.sh
  1 contributor
 543 lines (516 sloc)  15.9 KB
 #!/bin/bash
